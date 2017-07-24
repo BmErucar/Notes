@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+    <string name="delete">Delete Message</string>
+    <string name="new_note">New Note</string>
+</resources>
